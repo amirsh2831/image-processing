@@ -1,0 +1,14 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+dft.zip
+histogram.zip
+
+# ignore virtual env
+.venv/
+venv/
+env/
+
+bin/
+include/
+share/
+lib/
+pyvenv.cfg
